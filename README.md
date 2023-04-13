@@ -16,4 +16,5 @@ Sinh viên thực hiện:
 - Đinh Thanh Phong
 
 # Link dữ liệu của bài
-Data: https://drive.google.com/drive/folders/1AH1RA_umAThWHZupSjhogwQEapYZ7U88?usp=sharing
+Data gốc: https://www.microsoft.com/en-us/download/details.aspx?id=52367
+Data đã được tiền xử lý: https://drive.google.com/drive/folders/1AH1RA_umAThWHZupSjhogwQEapYZ7U88?usp=sharing
