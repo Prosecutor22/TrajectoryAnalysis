@@ -17,4 +17,5 @@ Sinh viên thực hiện:
 
 # Link dữ liệu của bài
 Data gốc: https://www.microsoft.com/en-us/download/details.aspx?id=52367
+
 Data đã được tiền xử lý: https://drive.google.com/drive/folders/1AH1RA_umAThWHZupSjhogwQEapYZ7U88?usp=sharing
