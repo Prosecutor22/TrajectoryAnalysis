@@ -1,5 +1,9 @@
 # Trajectory Analysis
 
+# Kết quả đạt được
+- Đề cương đề xuất mô hình để lưu trữ dữ liệu
+- Mô hình đánh giá người dùng thông qua GPS và nhãn của họ
+
 # Thành viên
 Nhóm nghiên cứu đến từ Đại Học Bách Khoa TPHCM (HCMUT)
 
